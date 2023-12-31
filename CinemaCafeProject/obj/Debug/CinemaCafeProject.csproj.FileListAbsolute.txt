@@ -1,0 +1,10 @@
+C:\Users\iarda\source\repos\CinemaCafeProject\bin\Debug\CinemaCafeProject.exe.config
+C:\Users\iarda\source\repos\CinemaCafeProject\bin\Debug\CinemaCafeProject.exe
+C:\Users\iarda\source\repos\CinemaCafeProject\bin\Debug\CinemaCafeProject.pdb
+C:\Users\iarda\source\repos\CinemaCafeProject\obj\Debug\CinemaCafeProject.csproj.AssemblyReference.cache
+C:\Users\iarda\source\repos\CinemaCafeProject\obj\Debug\CinemaCafeProject.Form1.resources
+C:\Users\iarda\source\repos\CinemaCafeProject\obj\Debug\CinemaCafeProject.Properties.Resources.resources
+C:\Users\iarda\source\repos\CinemaCafeProject\obj\Debug\CinemaCafeProject.csproj.GenerateResource.cache
+C:\Users\iarda\source\repos\CinemaCafeProject\obj\Debug\CinemaCafeProject.csproj.CoreCompileInputs.cache
+C:\Users\iarda\source\repos\CinemaCafeProject\obj\Debug\CinemaCafeProject.exe
+C:\Users\iarda\source\repos\CinemaCafeProject\obj\Debug\CinemaCafeProject.pdb
